@@ -15,7 +15,7 @@ Le même problème est subvenu sur la branche testLoginService (ayant eu un prob
 Ces problèmes ne sont plus subvenu par la suite.
 Mes excuses.
 
-Ayant eu du temps à la fin j'ai réduis au maximum les problèmes checkstyle.
+Ayant eu du temps à la fin j'ai réduis au maximum les problèmes checkstyle sur la dernière branche correctionLoginGenerator.
 
 Notes en plus : dans File > Project Structure dans Module j'ai du ajouté les paths de test et src, n'étant pas définis
 ils sont respectivement : src/test/java et src/main/java . Je les donnes au cas où.
